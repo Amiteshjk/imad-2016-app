@@ -1,19 +1,22 @@
 var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
-window.onload = function(){
-  var preventCopyAndPaste = function(e){ e.preventDefault(); }
-  document.getElementById('property').onpaste = preventCopyAndPaste;
-  document.getElementById('property').oncopy = preventCopyAndPaste;
-  document.getElementById('listener').addEventListener('copy', preventCopyAndPaste, false);
-  document.getElementById('listener').addEventListener('paste', preventCopyAndPaste, false);
-};
 
 var app = express();
 app.use(morgan('combined'));
 
+
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
+});
+app.get('/article-one',function(req,res) {
+    res.send('Article one is served here');
+});
+app.get('/article-2',function(req,res) {
+    res.send('Second file is served here');
+});
+app.get('/article-3',function(req,res) {
+    res.send('Third file is served here');
 });
 
 
