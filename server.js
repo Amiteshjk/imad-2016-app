@@ -12,15 +12,12 @@ app.get('/', function (req, res) {
 app.get('/article-one',function(req,res) {
     res.send('Article one is served here');
 });
-app.get('/article-2',function(req,res) {
+app.get('/article-two',function(req,res) {
     res.send('Second file is served here');
 });
-app.get('/article-3',function(req,res) {
+app.get('/article-three',function(req,res) {
     res.send('Third file is served here');
 });
-
-
-
 
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
