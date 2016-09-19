@@ -5,14 +5,36 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-
-var articleOne={
-    title:'Article-one | Amitesh',
+var articles={
+ articleOne:{
+ title:'Article-one | Amitesh',
     heading: 'Article one',
     content:` 
     <p>
             My name is Amitesh. I have a sister. 
         </p>`
+},
+articleTwo:{
+title:'Article two | Amitesh',
+heading:'Article two',
+content:`
+<p>
+        Amitesh is better than Lakshna
+        </p>
+        <p>
+            
+        Amitesh is stronger than Lakshna
+    </p>`
+
+},
+articleThree:{
+title: 'Article-three | Amitesh',
+heading:'Article three',
+content:
+     <p>
+Yeah its so obvious and everyone knows it
+     </p> 
+}
 };
 function createTemplate(data) {
     var title=data.title;
