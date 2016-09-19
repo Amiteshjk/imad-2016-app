@@ -7,16 +7,16 @@ app.use(morgan('combined'));
 
 var articles={
  'article-one':{
- title:'Article-one | Amitesh',
-    heading: 'Article one',
+ title:'article-one | Amitesh',
+    heading: 'article one',
     content:` 
     <p>
             My name is Amitesh. I have a sister. 
         </p>`
 },
 'article-two':{
-title:'Article two | Amitesh',
-heading:'Article two',
+title:'article two | Amitesh',
+heading:'article two',
 content:`
 <p>
         Amitesh is better than Lakshna
@@ -28,8 +28,8 @@ content:`
 
            },
 'article-three':{
-title: 'Article-three | Amitesh',
-heading:'Article three',
+title: 'article-three | Amitesh',
+heading:'article three',
 content:`
      <p>
 Yeah its so obvious and everyone knows it
@@ -55,8 +55,8 @@ var htmlTemplate=`
 
     <div>
         <a href="/">Home</a>
-        <a href="/article-two">Article two</a>
-        <a href="/article-three">Article three</a>
+        <a href="/article-two">article two</a>
+        <a href="/article-three">article three</a>
       <h3>
       ${heading}
     </div>
