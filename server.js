@@ -26,15 +26,15 @@ content:`
         Amitesh is stronger than Lakshna
     </p>`
 
-},
+           },
 articleThree:{
 title: 'Article-three | Amitesh',
 heading:'Article three',
-content:
+content:`
      <p>
 Yeah its so obvious and everyone knows it
-     </p> 
-}
+     </p> `
+ }
 };
 function createTemplate(data) {
     var title=data.title;
