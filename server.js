@@ -11,6 +11,7 @@ var articles={
     heading: 'article one',
     content:` 
     <p>
+    <img src="http://i.dailymail.co.uk/i/pix/2013/01/01/article-2255743-16B7C024000005DC-691_634x424.jpg"/>
             My name is Amitesh. I have a sister.Her name is Lakshna 
         </p>`
 },
