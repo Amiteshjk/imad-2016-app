@@ -55,6 +55,7 @@ var htmlTemplate=`
 
     <div>
         <a href="/">Home</a>
+        <a href="/article-one">article one</a>
         <a href="/article-two">article two</a>
         <a href="/article-three">article three</a>
       <h3>
