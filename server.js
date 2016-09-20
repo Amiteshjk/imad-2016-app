@@ -11,7 +11,7 @@ var articles={
     heading: 'article one',
     content:` 
     <p>
-            My name is Amitesh. I have a sister. 
+            My name is Amitesh. I have a sister.Her name is Lakshna 
         </p>`
 },
 'article-two':{
