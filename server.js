@@ -14,7 +14,7 @@ var articles={
     <img src="http://i.dailymail.co.uk/i/pix/2013/01/01/article-2255743-16B7C024000005DC-691_634x424.jpg"/>
     </p>
     <p>
-            My name is Amitesh. I have a sister.Her name is Lakshna 
+            Hi this is Sourav Ganguly,the best captain of all time!
         </p>`
 },
 'article-two':{
@@ -22,11 +22,12 @@ title:'article two | Amitesh',
 heading:'article two',
 content:`
 <p>
-        Amitesh is better than Lakshna
+        <img src="http://i.ndtvimg.com/i/2016-02/joey_640x480_71454592517.jpg"/>
         </p>
         <p>
-            
-        Amitesh is stronger than Lakshna
+        <h4>    
+        How you doin?
+        </h4>
     </p>`
 
            },
