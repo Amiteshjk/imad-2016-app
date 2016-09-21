@@ -47,7 +47,7 @@ content:`
 	<param name="movie" value="https://www.youtube.com/watch?v=IhuI759LDco"></param>
 	<param name="allowFullScreen" value="true"></param>
 	
-	<embed src="https://www.youtube.com/watch?v=IhuI759LDco" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344">
+	<embed src="https://www.youtube.com/watch?v=IhuI759LDco" allowfullscreen="true" width="425" height="344">
 </embed>
 </object>
      </p>
