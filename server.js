@@ -31,7 +31,7 @@ content:`
         <p>
         <h4>
         <font size="7">
-        How you doin?
+       <marquee>  How you doin? </marquee> 
         </font>
         </h4>
     </p>`
@@ -48,7 +48,7 @@ content:`
      <p>
      <h4>
      <font size="7">
-     For you loser xD
+     <marquee> For you loser xD </marquee> 
      </h4>
      </font>
      </p> `
