@@ -43,7 +43,13 @@ heading:'article three',
 content:`
  <meta name="viewport" content="width=device-width,initial-scale=1" />
      <p>
-     <img src="https://lovelace-media.imgix.net/uploads/491/974ec430-7fff-0133-6edf-0aecee5a8273.jpg?" width="500" height="500"/>
+     <object width="425" height="344">
+	<param name="movie" value="https://www.youtube.com/watch?v=IhuI759LDco"></param>
+	<param name="allowFullScreen" value="true"></param>
+	
+	<embed src="https://www.youtube.com/watch?v=IhuI759LDco" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344">
+</embed>
+</object>
      </p>
      <p>
      <h4>
