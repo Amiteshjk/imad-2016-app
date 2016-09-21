@@ -43,11 +43,11 @@ heading:'article three',
 content:`
  <meta name="viewport" content="width=device-width,initial-scale=1" />
      <p>
-     <object width="425" height="344">
-	<param name="movie" value="https://www.youtube.com/watch?v=IhuI759LDco"></param>
+   <object width="425" height="344">
+	<param name="movie" value="http://www.youtube.com/v/F9Bo89m2f6g&hl=en&fs=1"></param>
 	<param name="allowFullScreen" value="true"></param>
 	
-	<embed src="https://www.youtube.com/watch?v=IhuI759LDco" allowfullscreen="true" width="425" height="344">
+	<embed src="http://www.youtube.com/v/F9Bo89m2f6g&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344">
 </embed>
 </object>
      </p>
