@@ -43,12 +43,12 @@ heading:'article three',
 content:`
  <meta name="viewport" content="width=device-width,initial-scale=1" />
      <p>
-     <img src="ami.jpeg"/>
+     <img src="https://lovelace-media.imgix.net/uploads/491/974ec430-7fff-0133-6edf-0aecee5a8273.jpg?"/>
      </p>
      <p>
      <h4>
      <font size="7">
-     I know he is awesome
+     For you loser xD
      </h4>
      </font>
      </p> `
