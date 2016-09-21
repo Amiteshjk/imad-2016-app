@@ -43,7 +43,7 @@ heading:'article three',
 content:`
  <meta name="viewport" content="width=device-width,initial-scale=1" />
      <p>
-     <img src="https://lovelace-media.imgix.net/uploads/491/974ec430-7fff-0133-6edf-0aecee5a8273.jpg?" width="300" height="300"/>
+     <img src="https://lovelace-media.imgix.net/uploads/491/974ec430-7fff-0133-6edf-0aecee5a8273.jpg?" width="500" height="500"/>
      </p>
      <p>
      <h4>
