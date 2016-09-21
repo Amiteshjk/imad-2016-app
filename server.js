@@ -43,7 +43,7 @@ heading:'article three',
 content:`
  <meta name="viewport" content="width=device-width,initial-scale=1" />
      <p>
-     <img src="ami.jpg"/>
+     <img src="ami.jpeg"/>
      </p>
      <p>
      <h4>
