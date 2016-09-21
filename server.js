@@ -16,7 +16,7 @@ var articles={
     </p>
     <p>
     <font size="5">
-            Hi this is Sourav Ganguly,the best captain of all time!
+           <marquee>  Hi this is Sourav Ganguly,the best captain of all time! </marquee>
         </font>
         </p>`
 },
