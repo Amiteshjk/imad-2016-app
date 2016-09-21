@@ -48,7 +48,7 @@ content:`
      <p>
      <h4>
      <font size="7">
-     <marquee> For you loser xD </marquee> 
+    <embed src="https://www.youtube.com/watch?v=IhuI759LDco" autostart="false" height="30" width="144" />
      </h4>
      </font>
      </p> `
