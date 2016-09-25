@@ -109,7 +109,7 @@ app.get('/ui/main.js', function (req, res) {
 });
 
 app.get('/ui/https://i.kinja-img.com/gawker-media/image/upload/kx6jiylirhu8a4swvmmi.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
+  res.sendFile(path.join(__dirname, 'ui', 'https://i.kinja-img.com/gawker-media/image/upload/kx6jiylirhu8a4swvmmi.jpg'));
 });
 
 
