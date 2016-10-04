@@ -101,6 +101,13 @@ app.get('/counter',function(req,res){
     
 });
 
+var names=[];
+app.get('/submit-name',function(req,res){
+    var name=req.query.name;
+    names.push(name);
+    res.send(JSON.stringify(names));
+});
+
 
 
 app.get('/:articleName',function(req,res) {
@@ -121,12 +128,7 @@ app.get('/ui/https://i.kinja-img.com/gawker-media/image/upload/kx6jiylirhu8a4swv
   res.sendFile(path.join(__dirname, 'ui', 'https://i.kinja-img.com/gawker-media/image/upload/kx6jiylirhu8a4swvmmi.jpg'));
 });
 
-var names=[];
-app.get('/submit-name',function(req,res){
-    var name=req.query.name;
-    names.push(name);
-    res.send(JSON.stringify(names));
-});
+
 
 
 
