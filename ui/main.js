@@ -17,5 +17,5 @@ button.onclick = function() {
     }; 
     
     request.open('GET','http://amiteshjk.imad.hasura-app.io/counter',true);
-    request.semd(null);
+    request.send(null);
 };
