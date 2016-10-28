@@ -35,6 +35,7 @@ content:`
         <p>
         <h4>
         <font size="7">
+        <align="center">
        <marquee>  How you doin? </marquee> 
         </font>
         </h4>
