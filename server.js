@@ -16,7 +16,7 @@ var articles={
     </p>
     <p>
     <font size="5">
-           <marquee> Gryffindor </marquee>
+           <marquee> Slytherin </marquee>
         </font>
         </body>
         </p>`
