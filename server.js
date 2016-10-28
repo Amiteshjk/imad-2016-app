@@ -12,11 +12,11 @@ var articles={
     content:` 
      <meta name="viewport" content="width=device-width,initial-scale=1" />
     <p>
-    <img src="http://i.dailymail.co.uk/i/pix/2013/01/01/article-2255743-16B7C024000005DC-691_634x424.jpg" />
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/0d/d6/61/0dd661773c911b7de32d29a1184c3fc7.jpg" />
     </p>
     <p>
     <font size="5">
-           <marquee>  Hi this is Sourav Ganguly,the best captain of all time! </marquee>
+           <marquee> Gryffindor </marquee>
         </font>
         </p>`
 },
