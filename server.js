@@ -73,7 +73,6 @@ var htmlTemplate = `
          <link href="/ui/style.css" rel="stylesheet" />
     </head>
 <body>
-    <div class="container">
 
     <div>
         <font color="red">
@@ -87,7 +86,7 @@ var htmlTemplate = `
     </div>
     <div>
         ${content}
-    </div>
+
     
 </body>
 </html>
