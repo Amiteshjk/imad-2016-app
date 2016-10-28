@@ -31,6 +31,18 @@ body {
                 padding-left:20px;
                 padding-right:20px;
             }
+ .lusu {
+     max-width: 800px;
+                margin:0 auto;
+                color: green;
+                font-family: sans-serif;
+                padding-top:20px;
+                padding-left:20px;
+                padding-right:20px;
+ }
+     
+    
+}            
 
 
    
