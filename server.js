@@ -76,18 +76,19 @@ var htmlTemplate = `
     <div class="container">
 
     <div>
-        <font color="green">
+        <font color="red">
         <a href="/">Home</a>
         <a href="/article-one">article one</a>
         <a href="/article-two">article two</a>
         <a href="/article-three">article three</a>
+        </font>
       <h3>
       ${heading}
     </div>
     <div>
         ${content}
     </div>
-    </font>
+    
 </body>
 </html>
 
