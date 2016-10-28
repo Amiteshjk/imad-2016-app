@@ -15,7 +15,8 @@ var articles={
     <body background="http://static2.hypable.com/wp-content/uploads/2013/07/pottermore-story-navigator-666.jpg" />
     </p>
     <p>
-    <font size="5">
+    <font size="10">
+    <font color="dark blue">
            <marquee> Slytherin </marquee>
         </font>
         </body>
