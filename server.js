@@ -75,7 +75,7 @@ var htmlTemplate = `
 <body>
 
     <div>
-        <font color="red">
+        <div class="lusu">
         <a href="/">Home</a>
         <a href="/article-one">article one</a>
         <a href="/article-two">article two</a>
@@ -86,7 +86,7 @@ var htmlTemplate = `
     </div>
     <div>
         ${content}
-
+</div>
     
 </body>
 </html>
