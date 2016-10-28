@@ -16,7 +16,7 @@ var articles={
     </p>
     <p>
     <font size="10">
-    <font color="dark blue">
+    <font color="dark green">
            <marquee> Slytherin </marquee>
         </font>
         </body>
