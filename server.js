@@ -30,7 +30,7 @@ heading:'article two',
 content:`
  <meta name="viewport" content="width=device-width,initial-scale=1" />
 <p>
-        <img src="http://i.ndtvimg.com/i/2016-02/joey_640x480_71454592517.jpg"/>
+        <body background="https://m0.her.ie/wp-content/uploads/2015/05/08142300/harry-potter.jpg"/>
         </p>
         <p>
         <h4>
@@ -38,6 +38,7 @@ content:`
        <marquee>  How you doin? </marquee> 
         </font>
         </h4>
+        </body>
     </p>`
 
            },
