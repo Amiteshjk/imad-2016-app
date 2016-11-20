@@ -12,7 +12,7 @@ var articles={
     content:` 
      <meta name="viewport" content="width=device-width,initial-scale=1" />
     <p>
-    <body background="http://static2.hypable.com/wp-content/uploads/2013/07/pottermore-story-navigator-666.jpg" />
+    <body>
     </p>
     <p>
     <font size="10">
