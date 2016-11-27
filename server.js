@@ -30,7 +30,7 @@ heading:'article two',
 content:`
  <meta name="viewport" content="width=device-width,initial-scale=1" />
 <p>
-        <img src="http://i.ndtvimg.com/i/2016-02/joey_640x480_71454592517.jpg"/>
+       
         </p>
         <p>
         <h4>
